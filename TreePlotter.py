@@ -7,4 +7,5 @@ import matplotlib.pyplot as plt
 
 print("TREE")
 print("TREE2")
+print("TREE3")
 #createPlot(thisTree)
